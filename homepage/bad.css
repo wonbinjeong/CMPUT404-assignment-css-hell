@@ -1,0 +1,29 @@
+html {
+    background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.section {
+    background-color: aqua;
+}
+
+h1 {
+    color:chartreuse;
+    background-color: tomato;
+}
+
+h3 {
+    color: yellow;
+}
+
+h4 {
+    color: silver;
+}
+
+p {
+    color: pink;
+}
+
+li {
+    color: red;
+}
